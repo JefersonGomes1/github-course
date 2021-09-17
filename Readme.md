@@ -4,3 +4,5 @@ arquivo git para iniciantes
 
 teste repositorio
 mais uma edição
+
+gostou do curso? quer mais?
